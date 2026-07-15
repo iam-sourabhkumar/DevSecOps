@@ -19,3 +19,10 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/69fdf27fcb4b6e7de87f59e117d802d20eb0f1bf1950c03da65548b245ae1b12/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a61697377616c616469323436266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666f722d7468652d6261646765"><img src="https://camo.githubusercontent.com/69fdf27fcb4b6e7de87f59e117d802d20eb0f1bf1950c03da65548b245ae1b12/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a61697377616c616469323436266c6162656c3d50726f66696c65253230566965777326636f6c6f723d306537356236267374796c653d666f722d7468652d6261646765" alt="Profile views" data-canonical-src="https://komarev.com/ghpvc/?username=iam-sourabhkumar&amp;label=Profile%20Views&amp;color=0e75b6&amp;style=for-the-badge" style="max-width: 100%;"></a>
 </div>
 <hr>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/SourabhKrDev/SourabhKrDev/main/banner.png"
+    alt="Sourabh Kumar | DevOps Engineer"
+    width="100%"
+  />
+</div>
