@@ -45,3 +45,52 @@
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-ff9933?style=for-the-badge" alt="Location: Bangalore, India" />
 </a>
 </p>
+
+## 🚀 About Me
+
+- 🔭 Currently working on exciting projects that push the boundaries of what's possible
+- 🌱 Continuously learning and improving my skills in modern development practices
+- 💬 Happy to discuss tech, collaborate on projects, or share knowledge
+- ⚡ Fun fact: I believe great code is like great writing—clear, concise, and purposeful
+
+## 💻 Tech Stack
+
+**Languages:** JavaScript, Python, TypeScript, Java, HTML/CSS
+
+**Frontend:** React, HTML5, CSS3, Tailwind CSS
+
+**Backend:** REST APIs
+
+**Databases:** MySQL
+
+**Tools & Platforms:** Git, GitHub, VS Code, Linux
+
+## 📊 My GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourabhkumar)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourabhkumar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🎯 Featured Projects
+
+Here are some projects I'm proud of:
+
+- **[Project Name](link)** - Brief description of what it does
+- **[Project Name](link)** - Brief description of what it does
+- **[Project Name](link)** - Brief description of what it does
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/sourabhkrdev/)
+- 📧 [Email](mailto:sourabhkumar.dev@gmail.com)
+- 🌍 [Personal Website](https://yourwebsite.com)
+
+## 📈 Recent Activity
+
+- Contributing to open source projects
+- Experimenting with new technologies
+- Sharing knowledge through blogs and documentation
+
+---
+
+⭐ Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate!
