@@ -68,10 +68,16 @@
 **Version Control:** Git, GitHub, Azure Repos, GitFlow branching strategy
 
 ## 📊 My GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourabhkumar)](https://git.io/streak-stats)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourabhkumar&layout=compact)]
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=iam-sourabhkumar&theme=tokyonight&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </a>
 
+</div>
 
 ## 🎯 Featured Projects
 
