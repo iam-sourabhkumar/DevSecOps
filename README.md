@@ -46,8 +46,6 @@
 </a>
 </p>
 
-## 🚀 About Me
-
 - 🔭 Currently working on exciting projects that push the boundaries of what's possible
 - 🌱 Continuously learning and improving my skills in modern development practices
 - 💬 Happy to discuss tech, collaborate on projects, or share knowledge
