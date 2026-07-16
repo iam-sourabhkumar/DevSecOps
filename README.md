@@ -69,9 +69,7 @@
 
 ## 📊 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iam-sourabhkumar)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iam-sourabhkumar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 Featured Projects
 
