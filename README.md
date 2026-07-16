@@ -21,7 +21,7 @@
 <hr>
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/SourabhKrDev/SourabhKrDev/main/sks.png"
+    src="https://github.com/iam-sourabhkumar/DevSecOps/blob/main/sks.png"
     alt="Sourabh Kumar | DevOps Engineer"
     width="100%"
   />
