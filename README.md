@@ -55,15 +55,19 @@
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, Python, TypeScript, Java, HTML/CSS
+**Cloud Platform:** Microsoft Azure (App Service, VNET, Storage, Key Vault, Policy, Azure AD)
+
+**Infrastructure as Code:** Terraform, Azure Bicep
+
+**CI/CD Pipelines:** Azure DevOps (YAML Pipelines, Boards, Repos, Artifacts), GitHub Actions DevSecOps / SAST	tfsec, checkov
 
 **Frontend:** React, HTML5, CSS3, Tailwind CSS
 
-**Backend:** REST APIs
+**Monitoring & Observability:** Azure Monitor, Log Analytics
 
 **Databases:** MySQL
 
-**Tools & Platforms:** Git, GitHub, VS Code, Linux
+**Version Control:** Git, GitHub, Azure Repos, GitFlow branching strategy
 
 ## 📊 My GitHub Stats
 
@@ -75,8 +79,6 @@
 
 Here are some projects I'm proud of:
 
-- **[Project Name](link)** - Brief description of what it does
-- **[Project Name](link)** - Brief description of what it does
 - **[Project Name](link)** - Brief description of what it does
 
 ## 🌐 Connect With Me
